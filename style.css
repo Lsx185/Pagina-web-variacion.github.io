@@ -41,6 +41,14 @@ header {
     margin: 0;
 }
 
+.hero {
+    background-image: url("images/fondo2.png");
+    background-size: cover; /
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
 .top-menu a {
     color: gray;
     text-decoration: none;
